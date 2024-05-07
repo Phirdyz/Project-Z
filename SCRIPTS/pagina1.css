@@ -18,7 +18,7 @@ header{
   position: fixed;
   top: 0;
   left: 0;
-  background-image: url(/IMG/HEADER/headerbackground.png);
+  background-image: url(\Project-Z\SCRIPTS\IMG\HEADER\headerbackground.png);
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 999;
@@ -219,7 +219,7 @@ header{
 
   flex-grow: 1;
   margin-bottom: 5px; 
-  background-image: url("/IMG/pagina1/SECTION2/img1478x79.png");
+  background-image: url("\Project-Z\IMG\pagina1\SECTION2vimg1478x79.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -227,7 +227,7 @@ header{
 .cards-img.two {
   flex-grow: 2; 
   height: 40%;
-  background-image: url("/IMG/pagina1/SECTION2/img2\ 278x724.png");
+  background-image: url("\Project-Z\IMG\pagina1\SECTION2\img2\ 278x724.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -235,7 +235,7 @@ header{
 .cards-img.tree {
   margin-bottom: 0;
   flex-grow: 1;
-  background-image: url("/IMG/pagina1/SECTION2/img3\ 478x178.png");
+  background-image: url("\Project-Z\IMG\pagina1\SECTION2\img3\ 478x178.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -319,7 +319,7 @@ header{
 
 }
 .circle-one{
- background-image: url(/IMG/pagina1/SECTION3/circle1_476x472.png);
+ background-image: url(\Project-Z\IMG\pagina1\SECTION3\circle1_476x472.png);
  background-size: cover;
  background-repeat: no-repeat;
   width: 310px;
@@ -333,7 +333,7 @@ header{
 
 }
 .circle-two{
-  background-image: url(/IMG/pagina1/SECTION3/circle2-697x695.png);
+  background-image: url(\Project-Z\IMG\pagina1\SECTION3\circle2-697x695.png);
   background-size: cover;
   width: 476px;
   height: 472px;
